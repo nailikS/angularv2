@@ -9,9 +9,11 @@ body {
 }
 body, input[text], button {
   color: crimson;
-  font-family: Cambria, Georgia;
+  font-family: Arial, Helvetica, product-sans;
 }
-
+div{
+   font-family: Arial;
+}
 button.clear {
   font-family: Arial;
   background-color: #eee;
